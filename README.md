@@ -1,4 +1,4 @@
-# ModelMemz
+# Mems
 
 A lightweight CLI chat tool that lets you swap between LLMs while keeping a short-term memory of the conversation.
 
